@@ -1,0 +1,20 @@
+
+index>
+product name
+code
+description - textbox
+category- dropdown
+mfg_date -date picker
+expiry date_datepicker
+brand-dropdown
+cust_carenum -textbox
+product_img-input:file.form_control
+price 
+distributor_name - textbox
+add.html>
+
+search.htnl>
+product name - search box
+proct_code- delete button
+viewall_products
+shopping cart ui 12 product display
